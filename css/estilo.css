@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@100;300;500;900&display=swap');
+
+@charset "UTF-8";
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    text-align: center;
+    width: 100%;
+    background-color: red;
+    margin: 0 auto;
+}
+
+.main{
+    margin-top: 12%;
+    margin: 0 auto;
+    padding: 25px;
+    background-color: black;
+    color: black;
+    text-align: center;
+    width: 750px;
+    border-radius: 20px;
+    border: none;
+}
+
+.box{
+    margin-top: 10px;
+}
+
+.campo{
+    margin-top: 10px;
+    margin-left: 33%;
+    background-color: white;
+    text-align: center;
+    padding: 15px;
+    box-shadow: 0px 0px 10px gold;
+    border-radius: 10px;
+    width: 250px;
+    border: none;
+}
+
+.Login{
+    
+    padding: 10px;
+}
+
+.Login input{
+    width: 75px;
+}
+
+input{
+    
+}
